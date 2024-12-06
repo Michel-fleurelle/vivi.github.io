@@ -43,3 +43,7 @@ button{
 p{
  color: blue;
 }
+
+html{
+ scroll-behavior: smooth;
+}
